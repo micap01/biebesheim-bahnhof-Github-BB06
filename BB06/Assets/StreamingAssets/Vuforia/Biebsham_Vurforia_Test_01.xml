@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pub1_03_ref_image" size="10.000000 5.521327" />
+    <ImageTarget name="Pub1_03" size="10.000000 5.714286" />
+    <ImageTarget name="bfbieber1lgsey" size="10.000000 7.500000" />
+    <ImageTarget name="Biebesheimer_Bahnhof_point" size="10.000000 6.646667" />
+    <ImageTarget name="Biebesheimer_Bahnhof_Windows" size="10.000000 7.950392" />
+    <ImageTarget name="Biebesheimer_Bahnhof_72bit" size="10.000000 6.643564" />
+  </Tracking>
+</QCARConfig>
